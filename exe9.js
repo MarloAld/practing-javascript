@@ -1,0 +1,1 @@
+// Crie uma função que receba um array de números como argumento e retorne o segundo menor número do array.

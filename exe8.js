@@ -1,0 +1,1 @@
+// Crie uma função que receba um array de números como argumento e retorne um novo array contendo apenas os números primos.
